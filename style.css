@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    
+}
+
+
+.container{
+    margin: 0;
+    padding: 0;
+    background: url(/image/America__The_Motion_Picture_00_09_07_20.webp) no-repeat;
+    background-size: 110%;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 0.8;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(151, 10, 10);
+}
+
+.upper{
+    margin: 0 8%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 0;
+}
+.head h1{
+    color: red;
+}
+
+.mid{
+    margin: 13% 10%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.mid h3{
+    font-size: 1.7em;
+}
+
+.label-email{
+    margin: 0;
+    padding: 20px;
+}
+
+.label-email #email-add{
+    padding: 13px;
+    width: 35%;
+    border: none;
+    border-radius: 5px;
+    border-style: none;
+    background-color: lightgray;
+}
+
+.foot{
+    background-color: gray;
+    color: gray;
+    padding: 0px;
+}
+
+
+.faq{
+    color: white;
+    margin: 5% 15%;
+    padding: 0;
+}
