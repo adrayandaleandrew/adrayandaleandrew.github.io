@@ -1,5 +1,5 @@
 # My Netflix Landing Page Clone
 
-# Use the link below to open the Netflix Clone landing Page i have created
+Use the link in about to open the Netflix Clone landing Page i have created
 
 
